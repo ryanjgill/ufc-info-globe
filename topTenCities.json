@@ -1,0 +1,170 @@
+[
+  {
+    "City": "Houston",
+    "Country": "United States",
+    "Sessions": 640,
+    "% New Sessions": "32.03%",
+    "New Users": 205,
+    "Bounce Rate": "5.16%",
+    "Pages / Session": 14.05,
+    "Avg": {
+      " Session Duration": "00:07:25"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 29.7604267,
+    "lng": -95.3698028
+  },
+  {
+    "City": "(not set)",
+    "Country": "United States",
+    "Sessions": 350,
+    "% New Sessions": "99.71%",
+    "New Users": 349,
+    "Bounce Rate": "76.86%",
+    "Pages / Session": 1.23,
+    "Avg": {
+      " Session Duration": "00:00:41"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00"
+  },
+  {
+    "City": "Samara",
+    "Country": "Russia",
+    "Sessions": 99,
+    "% New Sessions": "3.03%",
+    "New Users": 3,
+    "Bounce Rate": "91.92%",
+    "Pages / Session": 1.15,
+    "Avg": {
+      " Session Duration": "00:00:00"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 53.2415041,
+    "lng": 50.2212463
+  },
+  {
+    "City": "New York",
+    "Country": "United States",
+    "Sessions": 97,
+    "% New Sessions": "100.00%",
+    "New Users": 97,
+    "Bounce Rate": "84.54%",
+    "Pages / Session": 1.37,
+    "Avg": {
+      " Session Duration": "00:00:14"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 40.7127837,
+    "lng": -74.0059413
+  },
+  {
+    "City": "London",
+    "Country": "United Kingdom",
+    "Sessions": 43,
+    "% New Sessions": "100.00%",
+    "New Users": 43,
+    "Bounce Rate": "51.16%",
+    "Pages / Session": 2.37,
+    "Avg": {
+      " Session Duration": "00:00:28"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 51.5073509,
+    "lng": -0.1277583
+  },
+  {
+    "City": "Izhevsk",
+    "Country": "Russia",
+    "Sessions": 41,
+    "% New Sessions": "2.44%",
+    "New Users": 1,
+    "Bounce Rate": "100.00%",
+    "Pages / Session": 1,
+    "Avg": {
+      " Session Duration": "00:00:00"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 56.86186009999999,
+    "lng": 53.2324285
+  },
+  {
+    "City": "Amsterdam-Zuidoost",
+    "Country": "Netherlands",
+    "Sessions": 40,
+    "% New Sessions": "100.00%",
+    "New Users": 40,
+    "Bounce Rate": "100.00%",
+    "Pages / Session": 1,
+    "Avg": {
+      " Session Duration": "00:00:00"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 52.3079989,
+    "lng": 4.9715451
+  },
+  {
+    "City": "Chicago",
+    "Country": "United States",
+    "Sessions": 33,
+    "% New Sessions": "96.97%",
+    "New Users": 32,
+    "Bounce Rate": "69.70%",
+    "Pages / Session": 1.94,
+    "Avg": {
+      " Session Duration": "00:00:10"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 41.8781136,
+    "lng": -87.6297982
+  },
+  {
+    "City": "Beijing",
+    "Country": "China",
+    "Sessions": 31,
+    "% New Sessions": "87.10%",
+    "New Users": 27,
+    "Bounce Rate": "67.74%",
+    "Pages / Session": 1.13,
+    "Avg": {
+      " Session Duration": "00:01:50"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 39.904211,
+    "lng": 116.407395
+  },
+  {
+    "City": "Nashville",
+    "Country": "United States",
+    "Sessions": 29,
+    "% New Sessions": "31.03%",
+    "New Users": 9,
+    "Bounce Rate": "10.34%",
+    "Pages / Session": 5.07,
+    "Avg": {
+      " Session Duration": "00:05:17"
+    },
+    "Goal Conversion Rate": "0.00%",
+    "Goal Completions": 0,
+    "Goal Value": "$0.00",
+    "lat": 36.1626638,
+    "lng": -86.7816016
+  }
+]

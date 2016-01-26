@@ -1,0 +1,23 @@
+extends layout
+
+block content
+    div.loading.digital.blink  Loading...
+    h1.counter
+
+    div#globe
+
+
+block page_specific_scripts
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.0.0/lodash.min.js')
+    script(src='http://cdnjs.cloudflare.com/ajax/libs/gsap/1.9.0/TweenMax.min.js')
+    script(src='third-party/system.min.js')
+    script(src='third-party/three56.js')
+    script(src='third-party/tween.js')
+    script(src='third-party/eventsourcePollyfill.js')
+    script(src='/js/orbital.js')
+    script(src='/js/util.js')
+    script(src='/js/geoutil.js')
+    script(src='/js/point.js')
+    script(src='/js/globe.js')
+    script(src='/js/odometer.min.js')
+    script(src='/js/index.js')
